@@ -1,0 +1,67 @@
+.about h1{
+    font-size: 60px;
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+}
+
+.about h2{
+    font-size:45px;
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(202, 247, 134);;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+.about h3{
+    font-size:40px;
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color:rgb(202, 247, 134);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.about h4{
+    font-size:25px;
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin: 30px;
+    padding-bottom: 0%;
+    
+}
+
+.about p{
+    font-size: 20px;
+    font-family: 'Consolas', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+}
+
+.about button{
+    background-color:greenyellow;
+    padding: 1.25rem;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    border: none;
+    color: black;
+    font-family: 'Press Start 2p', 'Arial Narrow', Arial, sans-serif;
+    width: 70px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 0.5rem;
+}
+
+#abtTitle{
+    font-family: "Press Start 2P";
+    line-height: 5rem;
+    font-size: 4rem;
+}
