@@ -1,5 +1,5 @@
 # Part-Picker : Build Your Dream PC
-Welcome to GameGear, an ambitious project where you can build your perfect PC based on your budget! This website is still under construction, but it's packed with potential.
+Welcome to PartPicker, an ambitious project where you can build your perfect PC based on your budget! This website is still under construction, but it's packed with potential.
 
 # 🌟 Features of Part Picker
 1) A Responsive Design (You can easily go through our website on any device, be it A Mobile/Tablet/Desktop or even a TV ).
